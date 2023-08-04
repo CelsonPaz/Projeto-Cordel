@@ -126,10 +126,6 @@ footer > p > a:hover{
     section{
         font-size: 1.2em;
     }
-    .imagem{
-        background-size: cover;
-        background-attachment: fixed;
-    }
 }
 
 @media screen and (max-width:992px){
@@ -142,9 +138,5 @@ footer > p > a:hover{
     }
     section{
         font-size: 1.5em;
-    }
-    .imagem{
-        background-size: cover;
-        background-attachment: fixed;
     }
 }
