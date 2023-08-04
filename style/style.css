@@ -85,6 +85,7 @@ section.imagem > p{
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
     background-size: cover;
     background-attachment: fixed;
+    z-index: -10;
 }
 
 #img01{
@@ -94,6 +95,7 @@ section.imagem > p{
 
 #img02{
     background-image: url('../imagens/background002.jpg');
+    background-position: center center;
 }
 
 /*                          Rodapé*/
